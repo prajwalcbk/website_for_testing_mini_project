@@ -1,0 +1,72 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-image: url("images/profile.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;  
+     
+}  
+.login{  
+        width: 382px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+        background: #00Bfff;  
+        border-radius: 15px ;  
+          
+}  
+h2{  
+    text-align: center;  
+    color: black;  
+    padding: 20px;  
+}  
+label{  
+    color: #000000;  
+    font-size: 17px;  
+}  
+#Uname{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#Pass{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}  
+#log{  
+    width: 300px;  
+    height: 40px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: black;
+    font-style: bold;
+    font-family: serif;
+  
+}  
+#log:hover
+{
+    background: silver;
+    color: black;
+}
+span{  
+    color: black;  
+    font-size: 17px;  
+}  
+a.password{  
+    float: right;  
+    background-color: grey;  
+}  
+a.signup{  
+    float: center;  
+    background-color: grey;  
+}  
